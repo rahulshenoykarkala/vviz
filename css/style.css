@@ -10,7 +10,7 @@
 .navigation {
   z-index: 999;
   position: relative;
-  padding: 35px 0;
+  padding: 21px 0px 21px 0px;
 }
 .navigation .sf-menu {
   z-index: 990;
